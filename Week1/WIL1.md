@@ -11,24 +11,24 @@
 **파일 경로 잘 확인하고** git init 
 
 ### 파일 등록
-모든 파일 한 번에 등록 git add .
+모든 파일 한 번에 등록 git add .  
 하나씩 등록 git add <파일명>
 
 ### 커밋
 git commit -m "<commit message>"
 
 ### 상태 확인하기
-git log
+git log  
 git status
 
 ### GitHub에 올리기 전
-git remote add origin <리포지토리 주소>
-git branch -M main
+git remote add origin <리포지토리 주소>  
+git branch -M main  
 git push -u origin main
 
 ### GItHub에 올리기
-git add <파일명>
-git commit -m "<commit message>"
+git add <파일명>  
+git commit -m "<commit message>"  
 git push origin main
 
 
