@@ -15,7 +15,7 @@
 하나씩 등록 git add <파일명>
 
 ### 커밋
-git commit -m "<commit message>"
+git commit -m "<커밋 메시지>"
 
 ### 상태 확인하기
 git log  
@@ -28,7 +28,7 @@ git push -u origin main
 
 ### GItHub에 올리기
 git add <파일명>  
-git commit -m "<commit message>"  
+git commit -m "<커밋 메시지>"  
 git push origin main
 
 
