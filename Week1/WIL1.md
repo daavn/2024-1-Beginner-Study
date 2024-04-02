@@ -1,6 +1,7 @@
 # Git/GitHub를 사용하는 이유
-내가 생성한 파일의 버전을 관리할 수 있다.
-다른 개발자와 협업 시에 사용한다.
+- 내가 생성한 파일의 버전을 관리할 수 있다.
+- 다른 개발자와 협업 시에 사용한다.
+
 
 # Git/GitHub 사용
 ## 명령어
@@ -22,6 +23,7 @@ git push -u origin main
 git add <파일명>  
 git commit -m "<커밋 메시지>"  
 git push origin main
+
 
 # 마크다운 문법
 ## 제목
